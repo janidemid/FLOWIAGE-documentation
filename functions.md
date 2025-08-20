@@ -10,7 +10,8 @@
 
 
   # important info:
-  Deformation targets will ignore all the deformation done by deformers whose names are in target component tags. Used for excluding the deformer from deforming one of the meshes inside bp
+  Deformation targets will ignore all the deformation done by deformers whose names are in target component tags. Used for excluding the deformer from deforming one of the meshes inside BP.
+  
   he tag "ignore" will make mesh ignorable to deformers of this blueprint.
 
 
