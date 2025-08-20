@@ -2,6 +2,7 @@
 
   ## BP_DEFORMER Funciotns:
   resetDeformer: used to reset static parameters of material, therefore resetting all the deformations by the deformer.
+  
   updateAllStartParameters: Same but will not be adding any new targets.
 
   ## BP_GLOBALDEFORMERSOLVER Funciotns:
