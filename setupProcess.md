@@ -1,5 +1,6 @@
 # 1.Import your model to UnrealEngine. I recomend importing it's materials as instances of "defaultTreeMaterial" like shown below:
 <img width="242" height="473" alt="2" src="https://github.com/user-attachments/assets/20436b84-798f-4850-8d9f-8464297fd362" />
+<img width="1003" height="599" alt="Снимок экрана 2025-08-20 205349" src="https://github.com/user-attachments/assets/a7686524-51c9-4c29-bfd6-e5c9620c9680" />
 
 # 2.create child blueprint of "BP_TreeBase" 
 <img width="594" height="930" alt="Снимок экрана 2025-08-20 194923" src="https://github.com/user-attachments/assets/b80d06ca-41c9-4df5-92e5-545d7c78b2c8" />
