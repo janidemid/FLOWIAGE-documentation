@@ -42,6 +42,7 @@ https://github.com/user-attachments/assets/d12206a7-b744-4eb7-be46-9eda181265af
 
 # 10.Set your materials up by eather filling defaultTreeMaterial's parramteres or inserting collectionDeformation function to your tree's materials like shown below
 <img width="1097" height="982" alt="Снимок экрана 2025-08-20 203543" src="https://github.com/user-attachments/assets/e406a41a-3871-4b44-8876-1f57099f9792" />
+
 ## OR:
 
 https://github.com/user-attachments/assets/4a53edb4-14fa-41c5-9150-aeac7239cb55
