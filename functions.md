@@ -1,8 +1,8 @@
-# important functions:
+# Important functions:
 
   ## BP_DEFORMER Funciotns:
-  resetDeformer: used to reset static parameters of material, therefore resetting all the deformations by the deformer
-  updateAllStartParameters: Same but will not be adding any new targets
+  #### resetDeformer: used to reset static parameters of material, therefore resetting all the deformations by the deformer
+  #### updateAllStartParameters: Same but will not be adding any new targets
 
   ## BP_GLOBALDEFORMERSOLVER Funciotns:
   updateGlobalIds: updating the IDs of deformers. Important if any old deformers were removed or if you have added new targets to the deformer mid-game.
