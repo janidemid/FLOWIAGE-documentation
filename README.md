@@ -9,5 +9,5 @@ this is documentation on using flowiage plugin
 # [Important function](ImportantFunctions.md)
 
 
-# WokPrincipe
+# Wok principe
 <img width="1920" height="1080" alt="howItWorks" src="https://github.com/user-attachments/assets/70f2f199-7472-4c3c-8db4-4d80567da8d0" />
